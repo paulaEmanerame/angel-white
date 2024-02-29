@@ -1,0 +1,14 @@
+.emans{
+    background-color:black;
+   
+}
+.praise{
+   color: cyan;
+   border: 30px;
+   justify-content: center;
+   align-items: center;
+}
+.Glory{
+    justify-content: space-around;
+    align-items: center;
+}

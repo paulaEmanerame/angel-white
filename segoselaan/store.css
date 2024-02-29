@@ -1,0 +1,11 @@
+nb{
+    width: 30vw;
+    height: 100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    margin-right: 40px; 
+    background-color: aqua; 
+}
+    
